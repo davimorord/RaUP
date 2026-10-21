@@ -4,7 +4,7 @@
 
 **Demo:** available on request (synthetic data only)
 
-![Patient view](docs/patient.png)
+<img src="docs/patient.jpeg" alt="Patient view" width="320">
 
 ## The problem
 
