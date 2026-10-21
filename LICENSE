@@ -1,0 +1,49 @@
+RaUP: Proprietary License
+
+Copyright (c) 2026 David Moreno Ordóñez. All rights reserved.
+
+1. Scope
+
+This repository contains documentation only: a description of the RaUP
+project and images of it (the "Materials"). The source code of RaUP is not
+included in this repository, is not public, and is not licensed here.
+
+2. Ownership
+
+The Materials, and the RaUP software they describe, are the exclusive
+property of the author, David Moreno Ordóñez.
+
+3. Restrictions
+
+Without the prior written permission of the author, no one may copy, modify,
+merge, publish, distribute, sublicense, sell, or otherwise use the Materials
+or any part of them, whether for commercial or non-commercial purposes.
+
+Publishing this repository on GitHub allows others to view and fork it as
+permitted by GitHub's Terms of Service. No other rights are granted.
+
+4. Access to the source code
+
+The source code is available on request, at the author's discretion, for
+academic or professional evaluation only, including the evaluation of the
+author's Master's Thesis (Trabajo Fin de Máster) for the Master in
+Applications of Artificial Intelligence in Healthcare (Máster en
+Aplicaciones de IA en Sanidad, CEMP/UDIMA). Any such access is governed by
+the license distributed with that code.
+
+5. Not a medical device
+
+RaUP is a research prototype. It is not a medical device, has not been
+certified or approved as one, and is not intended for clinical use,
+diagnosis, treatment, or any decision about a patient's care.
+
+6. No warranty
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE MATERIALS OR THE USE OR OTHER DEALINGS IN THE MATERIALS.
+
+For permission requests, contact the author at davimorord@gmail.com.
