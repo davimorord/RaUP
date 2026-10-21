@@ -6,6 +6,8 @@
 
 <img src="docs/patient.jpeg" alt="Patient view" width="320">
 
+<sub>The pilot was run in Spain, so the current interface is in Spanish. An English version is available on request.</sub>
+
 ## The problem
 
 In a one-on-one consultation, the clinician spends the first minutes of the visit collecting basic history: what is going on, since when, medication, past conditions. That is time not spent on the patient.
