@@ -2,7 +2,7 @@
 
 **AI-guided pre-visit anamnesis for clinicians. My Master's thesis in AI for Healthcare.**
 
-**Live demo:** [pilot-raup.streamlit.app](https://pilot-raup.streamlit.app) (synthetic data only)
+**Demo:** available on request (synthetic data only)
 
 ![Patient view](docs/patient.png)
 
